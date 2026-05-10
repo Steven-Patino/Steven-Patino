@@ -130,19 +130,6 @@
 
 ###
 
-### 📊 Stack de Datos
-
-```text
-Análisis          ██████████████████░░   Python (Pandas, NumPy, Matplotlib, Plotly)
-Visualización     ████████████████░░░░   Power BI · Matplotlib · Plotly
-Bases de Datos    ████████████████░░░░   PostgreSQL · MongoDB
-Pipelines         ██████████████░░░░░░   Airflow · Celery · RabbitMQ · n8n
-Big Data          ████████████░░░░░░░░   Apache Spark
-Cloud             ██████████░░░░░░░░░░   AWS
-Data Science      ████████░░░░░░░░░░░░   En aprendizaje activo 🚀
-```
-
-###
 
 ### 📫 Contáctame
 
