@@ -1,4 +1,22 @@
-<h2 align="left">Hola 👋 Soy Steven Patiño, Data Analyst & Data Engineer en formación 🇨🇴</h2>
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  BANNER PRINCIPAL                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24,30&height=220&section=header&text=Steven%20Patiño&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Data%20Science%20Student&descAlignY=60&descAlign=50&descSize=19" width="100%"/>
+
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Steven+%F0%9F%91%8B;Data+Analyst+%26+Engineer+%F0%9F%93%8A;Python+%7C+Spark+%7C+Airflow+%7C+AWS+%E2%9A%A1;Transformando+datos+en+decisiones+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+
+<br/>
+
+<!-- BADGES DE CONTACTO -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Steven%20Patiño-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Steven--Patino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Steven-Patino)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
+
+</div>
 
 ###
 
@@ -10,14 +28,12 @@
 
 <img align="right" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-###
-
 ### 🧠 Sobre mí
 
 - 🎓 Finalizando estudios en **[Riwi](https://github.com/Riwi-io-Medellin)** — Medellín, Colombia
 - 📊 Apasionado por el **análisis de datos**, la **ingeniería de datos** y el **machine learning**
 - 🌱 Actualmente aprendiendo **Data Science** y profundizando en pipelines de datos
-- 💬 Pregúntame sobre **Python, PostgreSQL, Spark, Airflow, n8n o análisis exploratorio**
+- 💬 Pregúntame sobre **Python, PostgreSQL, Spark, Airflow, n8n o Power BI**
 - 🤝 Abierto a colaborar en proyectos de datos con impacto real
 - ☕ Tomando café y convirtiendo datos en decisiones desde Colombia
 
@@ -54,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />
 </div>
 
-**Frameworks & APIs**
+**Frameworks & Estilos**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" title="FastAPI" />
@@ -62,6 +78,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" title="Node.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" title="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" title="Tailwind CSS" />
 </div>
 
 **Bases de Datos**
@@ -86,6 +104,16 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="28" alt="n8n" title="n8n" />
 </div>
 
+**Visualización de Datos**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="28" alt="Power BI" title="Power BI" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" height="28" alt="Matplotlib" title="Matplotlib" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="28" alt="Plotly" title="Plotly" />
+</div>
+
 **Cloud & DevOps**
 
 <div align="left">
@@ -105,7 +133,8 @@
 ### 📊 Stack de Datos
 
 ```text
-Análisis          ██████████████████░░   Python (Pandas, NumPy, Matplotlib, Seaborn)
+Análisis          ██████████████████░░   Python (Pandas, NumPy, Matplotlib, Plotly)
+Visualización     ████████████████░░░░   Power BI · Matplotlib · Plotly
 Bases de Datos    ████████████████░░░░   PostgreSQL · MongoDB
 Pipelines         ██████████████░░░░░░   Airflow · Celery · RabbitMQ · n8n
 Big Data          ████████████░░░░░░░░   Apache Spark
@@ -133,8 +162,12 @@ Data Science      ████████░░░░░░░░░░░░  
 
 <br clear="both">
 
+<!-- 🐍 Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake.svg" />
 </picture>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24,30&height=100&section=footer" width="100%"/>
