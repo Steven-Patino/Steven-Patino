@@ -1,0 +1,129 @@
+<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Data terminal animation — Steven Patiño</title>
+  <desc>Terminal animada mostrando código Python de análisis de datos</desc>
+
+  <defs>
+    <style>
+      .term-text { font-family: 'Courier New', monospace; font-size: 13px; }
+      .prompt { fill: #58a6ff; }
+      .keyword { fill: #ff7b72; }
+      .string { fill: #a5d6ff; }
+      .comment { fill: #8b949e; }
+      .func { fill: #d2a8ff; }
+      .number { fill: #79c0ff; }
+      .output { fill: #3fb950; }
+
+      .line1  { opacity:0; animation: appear .1s  0.5s forwards; }
+      .line2  { opacity:0; animation: appear .1s  1.4s forwards; }
+      .line3  { opacity:0; animation: appear .1s  2.2s forwards; }
+      .line4  { opacity:0; animation: appear .1s  3.0s forwards; }
+      .line5  { opacity:0; animation: appear .1s  3.8s forwards; }
+      .line6  { opacity:0; animation: appear .1s  4.6s forwards; }
+      .line7  { opacity:0; animation: appear .1s  5.2s forwards; }
+      .line8  { opacity:0; animation: appear .1s  5.8s forwards; }
+      .line9  { opacity:0; animation: appear .1s  6.4s forwards; }
+      .line10 { opacity:0; animation: appear .1s  7.0s forwards; }
+      .line11 { opacity:0; animation: appear .1s  7.6s forwards; }
+      .bar-group { opacity:0; animation: appear .1s  8.9s forwards; }
+      .line15 { opacity:0; animation: appear .1s 10.0s forwards; }
+
+      @keyframes appear { to { opacity: 1; } }
+
+      .blink { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+      .bar1 { animation: growbar .6s 9.0s ease-out both; transform-origin: 118px center; }
+      .bar2 { animation: growbar .6s 9.3s ease-out both; transform-origin: 118px center; }
+      .bar3 { animation: growbar .6s 9.6s ease-out both; transform-origin: 118px center; }
+      .bar4 { animation: growbar .6s 9.9s ease-out both; transform-origin: 118px center; }
+      @keyframes growbar { from{transform:scaleX(0)} to{transform:scaleX(1)} }
+    </style>
+  </defs>
+
+  <!-- Fondo terminal -->
+  <rect x="0" y="0" width="680" height="420" rx="12" fill="#0d1117"/>
+  <!-- Barra superior -->
+  <rect x="0" y="0" width="680" height="36" rx="12" fill="#161b22"/>
+  <rect x="0" y="24" width="680" height="12" fill="#161b22"/>
+  <!-- Botones macOS -->
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <!-- Título barra -->
+  <text x="340" y="22" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#484f58">steven_patino — data_analysis.py</text>
+
+  <!-- Código animado -->
+  <g class="line1">
+    <text x="28" y="68" class="term-text comment"># Análisis de ventas — Steven Patiño</text>
+  </g>
+  <g class="line2">
+    <text x="28" y="90" class="term-text">
+      <tspan class="keyword">import</tspan><tspan fill="#e6edf3"> pandas </tspan><tspan class="keyword">as</tspan><tspan fill="#e6edf3"> pd</tspan>
+    </text>
+  </g>
+  <g class="line3">
+    <text x="28" y="110" class="term-text">
+      <tspan class="keyword">import</tspan><tspan fill="#e6edf3"> numpy </tspan><tspan class="keyword">as</tspan><tspan fill="#e6edf3"> np</tspan>
+    </text>
+  </g>
+  <g class="line4">
+    <text x="28" y="130" class="term-text">
+      <tspan class="keyword">from</tspan><tspan fill="#e6edf3"> sqlalchemy </tspan><tspan class="keyword">import</tspan><tspan fill="#e6edf3"> </tspan><tspan class="func">create_engine</tspan>
+    </text>
+  </g>
+  <g class="line5">
+    <text x="28" y="158" class="term-text comment"># Conectando a PostgreSQL...</text>
+  </g>
+  <g class="line6">
+    <text x="28" y="178" class="term-text">
+      <tspan fill="#e6edf3">engine = </tspan><tspan class="func">create_engine</tspan><tspan fill="#e6edf3">(</tspan><tspan class="string">"postgresql://db:5432/sales"</tspan><tspan fill="#e6edf3">)</tspan>
+    </text>
+  </g>
+  <g class="line7">
+    <text x="28" y="198" class="term-text">
+      <tspan fill="#e6edf3">df = pd.</tspan><tspan class="func">read_sql</tspan><tspan fill="#e6edf3">(</tspan><tspan class="string">"SELECT * FROM ventas"</tspan><tspan fill="#e6edf3">, engine)</tspan>
+    </text>
+  </g>
+  <g class="line8">
+    <text x="28" y="226" class="term-text comment"># Agrupando por región...</text>
+  </g>
+  <g class="line9">
+    <text x="28" y="246" class="term-text">
+      <tspan fill="#e6edf3">resumen = df.</tspan><tspan class="func">groupby</tspan><tspan fill="#e6edf3">(</tspan><tspan class="string">"region"</tspan><tspan fill="#e6edf3">)[</tspan><tspan class="string">"revenue"</tspan><tspan fill="#e6edf3">].</tspan><tspan class="func">sum</tspan><tspan fill="#e6edf3">()</tspan>
+    </text>
+  </g>
+  <g class="line10">
+    <text x="28" y="266" class="term-text">
+      <tspan fill="#e6edf3">top = resumen.</tspan><tspan class="func">nlargest</tspan><tspan fill="#e6edf3">(</tspan><tspan class="number">4</tspan><tspan fill="#e6edf3">).</tspan><tspan class="func">reset_index</tspan><tspan fill="#e6edf3">()</tspan>
+    </text>
+  </g>
+  <g class="line11">
+    <text x="28" y="294" class="term-text comment"># Output:</text>
+  </g>
+
+  <!-- Barras animadas con datos de Colombia -->
+  <g class="bar-group">
+    <text x="28"  y="316" class="term-text output">Bogota   </text>
+    <rect x="118" y="305" width="180" height="13" rx="2" fill="#238636" class="bar1"/>
+    <text x="306" y="316" class="term-text output"> $4.2M</text>
+
+    <text x="28"  y="334" class="term-text output">Medellin </text>
+    <rect x="118" y="323" width="140" height="13" rx="2" fill="#1f6feb" class="bar2"/>
+    <text x="266" y="334" class="term-text output"> $3.1M</text>
+
+    <text x="28"  y="352" class="term-text output">Cali     </text>
+    <rect x="118" y="341" width="100" height="13" rx="2" fill="#388bfd" class="bar3"/>
+    <text x="226" y="352" class="term-text output"> $2.3M</text>
+
+    <text x="28"  y="370" class="term-text output">Barranq. </text>
+    <rect x="118" y="359" width="78"  height="13" rx="2" fill="#58a6ff" class="bar4"/>
+    <text x="204" y="370" class="term-text output"> $1.8M</text>
+  </g>
+
+  <!-- Cursor final -->
+  <g class="line15">
+    <text x="28" y="398" class="term-text">
+      <tspan class="prompt">&#10095; </tspan><tspan fill="#e6edf3" class="blink">&#9608;</tspan>
+    </text>
+  </g>
+</svg>
