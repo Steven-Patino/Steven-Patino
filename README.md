@@ -37,6 +37,9 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
+<!-- Terminal animada flotando a la derecha -->
+<img align="right" width="46%" src="data-terminal.svg" alt="Data terminal animation" />
+
 **Lenguajes**
 
 <div align="left">
@@ -95,12 +98,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" title="Linux" />
 </div>
 
+<br clear="both"/>
+
 ###
 
 ### 📊 Stack de Datos
 
 ```text
-Análisis          ██████████████████░░   Python (Pandas, NumPy, Matplotlib)
+Análisis          ██████████████████░░   Python (Pandas, NumPy, Matplotlib, Seaborn)
 Bases de Datos    ████████████████░░░░   PostgreSQL · MongoDB
 Pipelines         ██████████████░░░░░░   Airflow · Celery · RabbitMQ · n8n
 Big Data          ████████████░░░░░░░░   Apache Spark
@@ -128,7 +133,6 @@ Data Science      ████████░░░░░░░░░░░░  
 
 <br clear="both">
 
-<!-- 🐍 Snake animation — generada con Platane/snk (ver workflow abajo) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake.svg" />
