@@ -82,7 +82,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" height="35" alt="DuckDB" title="DuckDB" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF?style=flat-square&logo=duckdb&logoColor=black" height="35" alt="DuckDB" title="DuckDB" />
 </div>
 
 **Ingeniería de Datos & Orquestación**
@@ -94,19 +94,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="RabbitMQ" title="RabbitMQ" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" height="35" alt="Celery" title="Celery" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="35" alt="Celery" title="Celery" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="35" alt="n8n" title="n8n" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" height="35" alt="n8n" title="n8n" />
 </div>
 
 **Visualización de Datos**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="35" alt="Power BI" title="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="35" alt="Power BI" title="Power BI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="35" alt="Matplotlib" title="Matplotlib" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="35" alt="Seaborn" title="Seaborn" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="35" alt="Seaborn" title="Seaborn" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="35" alt="Plotly" title="Plotly" />
 </div>
