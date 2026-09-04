@@ -1,157 +1,463 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24,30&height=220&section=header&text=Steven%20Patiño&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Data%20Science%20Student&descAlignY=60&descAlign=50&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1026,100:111827&height=240&section=header&text=STEVEN%20PATI%C3%91O&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=37&desc=DATA%20%7C%20ENGINEERING%20%7C%20AI%20AUTOMATION&descAlignY=61&descAlign=50&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Steven+%F0%9F%91%8B;Data+Analyst+%26+Engineer+%F0%9F%93%8A;Python+%7C+Spark+%7C+Airflow+%7C+AWS+%E2%9A%A1;Transformando+datos+en+decisiones+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=%3E+Data+Analyst+%2F%2F+Data+Engineer;→+Building+Scalable+Data+Pipelines;→+Streaming+Data+with+Kafka+%2B+Spark;→+Automating+Workflows+with+AI+Agents;→+Python+%7C+SQL+%7C+Airflow+%7C+n8n+%7C+AWS" alt="Typing SVG"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Steven%20Patiño-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/steven-alexander-pati%C3%B1o-arenas-7710b93b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Steven--Patino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Steven-Patino)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.stevenpatino@gmail.com)
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Steven-Patino&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/steven-alexander-pati%C3%B1o-arenas-7710b93b9/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Steven-Patino">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:dev.stevenpatino@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-###
+<br>
+
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven-Patino&theme=dracula" alt="profile details" />
+
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   DATA  →  ENGINEERING  →  INTELLIGENCE  →  AUTOMATION             ║
+║                                                                    ║
+║   Building systems where data flows, AI reasons,                  ║
+║   and automation executes.                                       ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-###
+---
 
-<img align="right" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
+## `whoami`
 
-### 🧠 Sobre mí
+```python
+class StevenPatino:
 
-- 🎓 Finalizando estudios en **[Riwi](https://github.com/Riwi-io-Medellin)** — Medellín, Colombia
-- 📊 Apasionado por el **análisis de datos**, la **ingeniería de datos** y el **machine learning**
-- 🌱 Actualmente aprendiendo **Data Science** y profundizando en pipelines de datos
-- 💬 Pregúntame sobre **Python, PostgreSQL, Spark, Airflow, n8n o Power BI**
-- 🤝 Abierto a colaborar en proyectos de datos con impacto real
-- ☕ Tomando café y convirtiendo datos en decisiones desde Colombia
+    role = [
+        "Data Analyst",
+        "Data Engineer",
+        "AI Automation Enthusiast"
+    ]
 
-###
+    interests = [
+        "Data Analytics",
+        "Data Engineering",
+        "Real-Time Data",
+        "AI Agents",
+        "Intelligent Automation",
+        "Cloud Architecture"
+    ]
+
+    philosophy = "Turn data into intelligence. Turn intelligence into action."
+
+    location = "Colombia 🇨🇴"
+```
+
+I build data-driven solutions focused on **analytics, engineering and intelligent automation**.
+
+My work sits at the intersection of:
+
+`DATA ANALYTICS` + `DATA ENGINEERING` + `AI AGENTS` + `AUTOMATION`
+
+I am particularly interested in building systems capable of taking raw data, processing it through reliable pipelines, extracting meaningful insights and using AI-driven workflows to automate decisions and repetitive operations.
+
+---
+
+# `01` — DATA ANALYTICS
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Steven-Patino&theme=dracula" height="160" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Steven-Patino&theme=dracula&utcOffset=-5" height="160" alt="productive time" />
+
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
 </div>
+
+### Analytical workflow
+
+```text
+                  RAW DATA
+                     │
+                     ▼
+             ┌───────────────┐
+             │ Data Cleaning │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ Transformation│
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │     SQL       │
+             │   Analysis    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    Power BI   │
+             │   Dashboards  │
+             └───────┬───────┘
+                     │
+                     ▼
+              BUSINESS INSIGHT
+```
+
+I focus on turning data into **clear metrics, KPIs, dashboards and actionable insights** rather than simply producing visualizations.
+
+---
+
+# `02` — DATA ENGINEERING
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Patino&theme=dracula" height="160" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Patino&theme=dracula" height="160" alt="most commit language" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/>
+
 </div>
 
-###
+### Data Engineering Stack
 
-### 🛠️ Tecnologías y Herramientas
+| Layer               | Technologies                |
+| ------------------- | --------------------------- |
+| **Ingestion**       | Python, APIs, Kafka         |
+| **Streaming**       | Apache Kafka                |
+| **Processing**      | Apache Spark, Python        |
+| **Transformation**  | SQL, Pandas                 |
+| **Orchestration**   | Apache Airflow              |
+| **Databases**       | PostgreSQL, MongoDB, DuckDB |
+| **Messaging**       | Kafka, RabbitMQ             |
+| **Task Processing** | Celery                      |
+| **Infrastructure**  | Docker, AWS, Terraform      |
 
-<img align="right" width="46%" src="data-terminal.svg" alt="Data terminal animation" />
+### Pipeline mindset
 
-**Lenguajes**
+```text
+APIs / SOURCES
+      │
+      ▼
+┌───────────────┐
+│    KAFKA      │
+│ Event Stream  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│     SPARK     │
+│   Processing  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│   POSTGRES    │
+│   / DUCKDB    │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│   AIRFLOW     │
+│ Orchestration │
+└───────┬───────┘
+        │
+        ▼
+   ANALYTICS / AI
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="Dart" title="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" title="CSS3" />
+---
+
+# `03` — AI AUTOMATION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_AGENTS-0F172A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hermes_Agent-6D28D9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_WORKFLOWS-2563EB?style=for-the-badge&logoColor=white"/>
+
 </div>
 
-**Frameworks & Estilos**
+This is one of the areas I'm most interested in exploring.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="FastAPI" title="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" title="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS" title="Tailwind CSS" />
+Instead of using AI only as a chatbot, I am interested in **agentic systems capable of observing, reasoning, interacting with tools and executing workflows**.
+
+### AI Automation Architecture
+
+```text
+                      ┌──────────────────┐
+                      │      EVENT       │
+                      │ API / Webhook /  │
+                      │ Schedule / Data  │
+                      └────────┬─────────┘
+                               │
+                               ▼
+                     ┌─────────────────┐
+                     │   AI AGENT      │
+                     │                 │
+                     │ Reasoning       │
+                     │ Planning        │
+                     │ Tool Use        │
+                     │ Memory          │
+                     └────────┬────────┘
+                              │
+                ┌─────────────┼─────────────┐
+                ▼             ▼             ▼
+           ┌─────────┐   ┌──────────┐  ┌───────────┐
+           │ OpenClaw│   │  Hermes  │  │    MCP    │
+           │         │   │  Agent   │  │  Tools    │
+           └────┬────┘   └────┬─────┘  └─────┬─────┘
+                │             │              │
+                └─────────────┼──────────────┘
+                              ▼
+                     ┌─────────────────┐
+                     │      n8n        │
+                     │   Automation    │
+                     └────────┬────────┘
+                              │
+                ┌─────────────┼──────────────┐
+                ▼             ▼              ▼
+             Database       Email          APIs
+                │
+                ▼
+          ACTION / RESULT
+```
+
+---
+
+# `04` — AI × DATA
+
+The most interesting problems are where **data engineering and artificial intelligence meet**.
+
+```text
+                DATA
+                  │
+                  ▼
+        ┌───────────────────┐
+        │   DATA PIPELINES  │
+        │ Kafka / Spark     │
+        │ Airflow / SQL     │
+        └─────────┬─────────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │ ANALYTICS     │
+          │ Python / BI   │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │   AI AGENT    │
+          │ Reason / Plan │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │ AUTOMATION    │
+          │ n8n / Tools   │
+          └───────┬───────┘
+                  │
+                  ▼
+             REAL ACTION
+```
+
+My long-term interest is building systems where **data pipelines feed intelligent agents that can interpret information and trigger real-world actions automatically.**
+
+---
+
+# `05` — TECHNOLOGY MATRIX
+
+### `Languages`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Bash-0B1220?style=for-the-badge&logo=gnu-bash&logoColor=22C55E"/>
+
 </div>
 
-**Bases de Datos**
+### `Data`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF?style=flat-square&logo=duckdb&logoColor=black" height="35" alt="DuckDB" title="DuckDB" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Apache_Spark-0B1220?style=for-the-badge&logo=apachespark&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-0B1220?style=for-the-badge&logo=apachekafka&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Airflow-0B1220?style=for-the-badge&logo=apacheairflow&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/DuckDB-0B1220?style=for-the-badge&logo=duckdb&logoColor=FACC15"/>
+
 </div>
 
-**Ingeniería de Datos & Orquestación**
+### `Analytics`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="Apache Airflow" title="Apache Airflow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="35" alt="Apache Spark" title="Apache Spark" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="RabbitMQ" title="RabbitMQ" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="35" alt="Celery" title="Celery" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" height="35" alt="n8n" title="n8n" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Plotly-0B1220?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
+
 </div>
 
-**Visualización de Datos**
+### `AI & Automation`
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="35" alt="Power BI" title="Power BI" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="35" alt="Matplotlib" title="Matplotlib" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="35" alt="Seaborn" title="Seaborn" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="35" alt="Plotly" title="Plotly" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenClaw-0B1220?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Hermes_Agent-0B1220?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/n8n-0B1220?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/AI_Agents-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MCP-0B1220?style=for-the-badge&logoColor=FFFFFF"/>
+
 </div>
 
-**Cloud & DevOps**
+### `Cloud & DevOps`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform" title="Terraform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" title="Linux" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-0B1220?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Terraform-0B1220?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
+<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032"/>
+
 </div>
 
-<br clear="both"/>
+---
 
-###
+# `06` — CURRENTLY EXPLORING
 
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  ⚡ Real-Time Data              → Apache Kafka               │
+│  🏗️ Distributed Processing     → Apache Spark               │
+│  🔄 Data Orchestration          → Apache Airflow             │
+│  🤖 Agentic AI                  → AI Agents / Hermes         │
+│  🧠 Autonomous Automation       → OpenClaw / n8n             │
+│  🔌 Tool Integration            → MCP                         │
+│  ☁️ Cloud Data Architecture     → AWS                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### 📫 Contáctame
+---
 
-<div align="left">
-  <a href="mailto:dev.stevenpatino@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/steven-alexander-pati%C3%B1o-arenas-7710b93b9/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="https://github.com/Steven-Patino">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github" />
-  </a>
+# `07` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven-Patino&theme=github_dark" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Steven-Patino&theme=github_dark" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Steven-Patino&theme=github_dark&utcOffset=-5" height="170"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Patino&theme=github_dark" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Patino&theme=github_dark" height="170"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+# `08` — ENGINEERING MINDSET
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  "Don't just build software.                              │
+│   Build systems that can think, learn and execute."        │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+I believe the future of software lies in combining:
+
+**Reliable data infrastructure**
++
+**Powerful analytics**
++
+**AI reasoning**
++
+**Autonomous automation**
+
+That is the direction I want to keep building toward.
+
+---
+
+# `09` — CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/steven-alexander-pati%C3%B1o-arenas-7710b93b9/">
+<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dev.stevenpatino@gmail.com">
+<img src="https://img.shields.io/badge/Email-START%20A%20CONVERSATION-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+```text
+DATA → ENGINEERING → AI → AUTOMATION
+```
+
+### `Building intelligent systems from data.`
+
+</div>
+
+---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Steven-Patino/Steven-Patino/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24,30&height=100&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0B1026,100:050816&height=120&section=footer" width="100%"/>
+
+</div>
