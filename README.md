@@ -215,8 +215,6 @@ Soy **Steven Patiño**, y construyo soluciones en la intersección entre **Data 
 
 </div>
 
-<sub>💡 **OpenClaw** es especialmente relevante para mi enfoque de automatización: es un asistente/gateway de IA self-hosted que conecta agentes con herramientas, canales, workflows y acciones reales. **Hermes Agent** añade otra capa mediante ejecución agéntica, memoria, skills, uso de herramientas y tareas autónomas.</sub>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=header" width="100%"/>
